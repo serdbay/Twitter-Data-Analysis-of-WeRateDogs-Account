@@ -9,7 +9,7 @@ In this project our goal is to wrangle WeRateDogs Twitter data to create interes
 * [Contact](#contact)
 
 ## General Information
-The dataset that you will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog.
+The dataset that we will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog.
 
 ## Technologies Used
 - Python 3.10.5
